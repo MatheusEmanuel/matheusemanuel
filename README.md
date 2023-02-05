@@ -20,6 +20,7 @@
 
 
 ### Studying in this moment:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117)&nbsp;
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-0D1117?style=for-the-badge&logo=scikitlearn&labelColor=0D1117)&nbsp;
 ![MLflow](https://img.shields.io/badge/-MLflow-0D1117?style=for-the-badge&logo=mlflow&labelColor=0D1117)&nbsp;
