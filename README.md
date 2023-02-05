@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusemanuel&bg_color=0d1117&color=ffd700&line=ffd700&point=00ff08&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusemanuel&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Emanuel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusemanuel&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusemanuel&show_icons=true&count_private=true&hide_border=true&title_color=ffd700&icon_color=ffd700&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Emanuel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusemanuel&layout=compact&hide_border=true&title_color=ffd700&text_color=ffd700&bg_color=0d1117" />
 </div>
 
 
